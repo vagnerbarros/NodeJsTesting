@@ -1,10 +1,10 @@
 {
-  "name": "NodeJsTesting",
+  "name": "nodejstesting",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --timeout 5000"
   },
   "repository": {
     "type": "git",
